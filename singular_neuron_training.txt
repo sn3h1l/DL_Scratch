@@ -1,0 +1,20 @@
+Initial input: 0.5313, Target: 1
+Initial weights: iw=0.0205, h1w=0.5326, h2w=0.6745
+Initial biases: ib=0.9963, h1b=0.4207, h2b=0.9562
+
+Training...
+
+Epoch 0: Cost = 0.037704, Prediction = 0.805825
+Epoch 100: Cost = 0.013984, Prediction = 0.881748
+Epoch 200: Cost = 0.008153, Prediction = 0.909706
+Epoch 300: Cost = 0.005650, Prediction = 0.924835
+Epoch 400: Cost = 0.004284, Prediction = 0.934545
+Epoch 500: Cost = 0.003433, Prediction = 0.941411
+Epoch 600: Cost = 0.002854, Prediction = 0.946576
+Epoch 700: Cost = 0.002437, Prediction = 0.950635
+Epoch 800: Cost = 0.002123, Prediction = 0.953928
+Epoch 900: Cost = 0.001878, Prediction = 0.956665
+
+Final prediction: 0.958986
+Final weights: iw=0.0349, h1w=0.6992, h2w=1.4595
+Final biases: ib=1.0234, h1b=0.6471, h2b=2.0397
